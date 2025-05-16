@@ -1,2 +1,4 @@
-# ankitdemo
+# project -- demo
 This is my first Git Repository
+Author - Ankit Singh
+
